@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7bd8d15-4b99-4544-882a-0a1e44a4a07b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../文档/毕业设计（论文）模版A4.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../文档/毕业设计（论文）模版A4.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文档/中期/翔英学院论文记录本.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../文档/中期/翔英学院论文记录本.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文档/任务书_郭存念.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文档/毕设_郭存念.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../文档/毕设_郭存念.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文档/毕设开题_郭存念.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文档/翔英学院论文记录本.doc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/autoreport/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
+            <state relative-caret-position="1078">
               <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
             </state>
           </provider>
@@ -24,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/autoreport/zentao_driver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6138">
+            <state relative-caret-position="6072">
               <caret line="279" column="20" selection-start-line="279" selection-start-column="20" selection-end-line="279" selection-end-column="20" />
               <folding>
                 <element signature="e#44#74#0" expanded="true" />
@@ -36,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/autoreport/send_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="96" column="35" lean-forward="true" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
+            <state relative-caret-position="1958">
+              <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
               <folding>
                 <element signature="e#44#58#0" expanded="true" />
               </folding>
@@ -48,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/report_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="124" selection-start-line="124" selection-end-line="124" selection-end-column="26" />
+            <state relative-caret-position="203">
+              <caret line="119" column="35" selection-start-line="119" selection-start-column="35" selection-end-line="119" selection-end-column="35" />
               <folding>
                 <element signature="e#43#86#0" expanded="true" />
               </folding>
@@ -60,7 +65,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
@@ -74,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,6 +95,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,14 +162,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/autoreport/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
+        <state relative-caret-position="1078">
           <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/autoreport/zentao_driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6138">
+        <state relative-caret-position="6072">
           <caret line="279" column="20" selection-start-line="279" selection-start-column="20" selection-end-line="279" selection-end-column="20" />
           <folding>
             <element signature="e#44#74#0" expanded="true" />
@@ -174,8 +179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/autoreport/send_email.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="96" column="35" lean-forward="true" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
+        <state relative-caret-position="1958">
+          <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
           <folding>
             <element signature="e#44#58#0" expanded="true" />
           </folding>
@@ -184,8 +189,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/report_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="124" selection-start-line="124" selection-end-line="124" selection-end-column="26" />
+        <state relative-caret-position="203">
+          <caret line="119" column="35" selection-start-line="119" selection-start-column="35" selection-end-line="119" selection-end-column="35" />
           <folding>
             <element signature="e#43#86#0" expanded="true" />
           </folding>
